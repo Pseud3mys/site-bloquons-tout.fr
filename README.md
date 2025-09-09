@@ -24,8 +24,9 @@ Nous rêvons d'un espace en ligne, neutre et transparent, qui permette de :
 -   **Faire émerger** des propositions constructives et des solutions citoyennes.
 -   **Organiser** des consultations, des votations, et de futures mobilisations.
 -   **Servir d'outil** à la souveraineté populaire, en s'inspirant d'initiatives comme le Référendum d'Initiative Citoyenne (RIC).
+-   Le but est de dépasser le simple vote ou soumission solitaire implémentés par d'autres projets similaires (Decidim, cap collectif). Le but est de permettre une véritable co-création et un débat en ligne à grande échelle. Pensez un mélange de Github et de Tweeter...
 
-Ce site n'est donc pas seulement un des sites de l'événement (un autre est [10s25.fr](https://10s25.fr/), mais la première pierre d'une infrastructure pour une démocratie plus directe et participative.
+Ce site n'est donc pas seulement un des sites du mouvement du 10 septembre (Allez voir [10s25.fr](https://10s25.fr/) !), mais la première pierre d'une infrastructure pour une démocratie plus directe et participative.
 
 ## Pourquoi un projet Open-Source ?
 
