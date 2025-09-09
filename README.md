@@ -48,8 +48,8 @@ Toutes les compétences sont les bienvenues ! Que vous soyez développeur, graph
 
 ### 💻 Pour les Développeurs / Développeuses
 La stack technique actuelle est volontairement simple pour permettre une mise en place rapide.
--   **Frontend :** HTML5, Tailwind CSS, JavaScript (vanilla).
--  le stack de l'agora est dockerisé.
+-   **Frontend :** HTML5, CSS, JavaScript (vanilla). Par simplicité
+-  le stack de l'agora est dockerisé et pas encore en ligne
 
 
 Consultez les [Issues ouvertes](https://github.com/bloquons-tout/bloquons-tout.fr/issues) pour voir les tâches en cours ou les bugs à corriger.
